@@ -1,0 +1,8 @@
+{
+  "name": "Luxe Christmas Tree 3D",
+  "description": "A luxurious, interactive 3D particle Christmas tree with hand tracking, audio visualization, and photo gallery features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
